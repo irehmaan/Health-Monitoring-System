@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "275520285491",
+    "firebase_url": "https://virtualhealth-287-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "virtualhealth-287",
+    "storage_bucket": "virtualhealth-287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275520285491:android:61dab2a06577167c316c46",
+        "android_client_info": {
+          "package_name": "com.example.virtualhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275520285491-h05a4i6md397oprkl9htas10l0tkakc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualhealth",
+            "certificate_hash": "ba30c48da6c62b02e17c6342b0d73d5603bc5006"
+          }
+        },
+        {
+          "client_id": "275520285491-7olq84aq8o7d878ss919ila5joqu4pp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrYg2xcdfuBtgQ7SVCWoP5DD3yonhflsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275520285491-7olq84aq8o7d878ss919ila5joqu4pp0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275520285491-b7sl38ps8o73bs4njhj7h9hclt5iubdp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.virtualhealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
