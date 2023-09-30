@@ -43,8 +43,8 @@ Before you begin, ensure you have met the following requirements:
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute to the project:
 
-Fork the project.
-Create a new branch for your feature or bugfix: git checkout -b feature/my-feature or bugfix/issue-description.
-Commit your changes: git commit -m 'Add some feature'.
-Push to your branch: git push origin feature/my-feature.
-Submit a pull request to the main branch.
+1. Fork the project.
+2. Create a new branch for your feature or bugfix: git checkout -b feature/my-feature or bugfix/issue-description.
+3. Commit your changes: git commit -m 'Add some feature'.
+4. Push to your branch: git push origin feature/my-feature.
+5. Submit a pull request to the main branch.
